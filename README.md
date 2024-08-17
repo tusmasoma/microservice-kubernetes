@@ -1,6 +1,8 @@
 Microservice Kubernetes Sample
 =====================
 
+[🇯🇵日本語](README_JP.md)
+
 [Deutsche Anleitung zum Starten des Beispiels](WIE-LAUFEN.md)
 
 This sample is like the sample for my Microservices Book
